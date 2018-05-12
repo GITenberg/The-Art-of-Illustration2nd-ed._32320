@@ -1,0 +1,28 @@
+_repo: The-Art-of-Illustration2nd-ed._32320
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32320-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blackburn, Henry
+    birthdate: 1830
+    deathdate: 1897
+    gutenberg_agent_id: '7793'
+    url: http://www.gutenberg.org/2009/agents/7793
+description: ''
+gutenberg_issued: '2010-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Illustration of books'
+title: 'The Art of Illustration
+
+  2nd ed.'
+url: http://www.gutenberg.org/ebooks/32320
